@@ -1,0 +1,7 @@
+# Project exclude paths
+/kafka-producer-twitter/target/
+/kafka-basics/target
+/kafka-consumer-elastic-search/target
+/target/
+*.iml
+.idea
